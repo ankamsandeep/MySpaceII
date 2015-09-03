@@ -37,6 +37,10 @@
     NSLog(@"Sucess");
 }
 
+- (void) logout {
+    NSLog(@"User successfully logged out.");
+}
+
 - (void) nareenDidSomething {
     
 }
