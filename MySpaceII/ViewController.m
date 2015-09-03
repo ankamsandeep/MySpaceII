@@ -24,9 +24,10 @@
     // Dispose of any resources that can be recreated.
 }
 
-- (void)sandeepDoSomething {
-    
-}
 
+- (void)login {
+    
+    NSLog(@"Login Successful");
+}
 
 @end
