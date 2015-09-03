@@ -31,6 +31,10 @@
 - (void)login {
     
     NSLog(@"Login Successful");
+    
+}
+- (void) profile{
+    NSLog(@"Sucess");
 }
 
 @end
