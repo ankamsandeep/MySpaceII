@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+// first project to git
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
